@@ -7,3 +7,6 @@ aylar=["ocak","şubat","mart","nisan","mayıs","haziran","temmuz","ağustos","ey
 
 for i in range(12):
     print(aylar[i]) #1. adımda print(aylar[0]) , 2.adımda print (aylar[1])
+
+
+#kullanıcıdan 10 tane isim alarak bir listeye atın
