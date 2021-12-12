@@ -13,3 +13,7 @@ print(liste)
 #Ödev: 2 basamaklı sayıların okunuşunu yapan python programını yazınız.
 #Örnek: kullanıcı 12 girdi --> oniki
 #Örnek: kullanıcı 85 girdi --> seksenbeş
+#birlik=["bir","iki" ... ]
+#onluk=["on" ...] bunlar gibi
+#85//10= 8 // = tam bölme
+#85%10=5 10 a bölümünden kalanı verir
